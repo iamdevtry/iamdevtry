@@ -93,15 +93,3 @@ I'm a back-end developer
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
