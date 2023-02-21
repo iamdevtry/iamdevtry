@@ -81,13 +81,13 @@ I'm a back-end developer
 
 
 ## Github Stats  
-<table style="padding: 12px;"><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamdevtry&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamdevtry&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%;" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevtry&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevtry&hide_border=true&layout=compact" align="center" style="width: 100%;" />
 
 </td></tr></table>  
 
