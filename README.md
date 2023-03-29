@@ -44,9 +44,10 @@ I'm a back-end developer
 
 <br/>  
 
-## Languages and Tools 
+## Skills 💻
 <table><tr><td valign="top" width="50%">
 
+<h3 style="color:blue;">Languages and Tools 🛠 </h3>
 <div align="center">  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="32" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="32" /></a>  
