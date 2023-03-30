@@ -21,7 +21,7 @@ I'm a back-end developer
 <br/>  
 
 
-## Hi there! 👋
+## Something about me! 👋
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working with [Golang](https://go.dev/) & I want to become a "gopher" developer  
