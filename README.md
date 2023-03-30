@@ -78,15 +78,15 @@ I'm a back-end developer
 </td><td valign="top" width="50%">
 <div align="center">
 <br />
-<img align="center"  src="https://github-readme-stats-green-phi.vercel.app/api/top-langs/?username=iamdevtry&layout=compact&theme=github_dark&hide_border=true"/>
+<img align="center"  src="https://github-readme-stats-green-phi.vercel.app/api/top-langs/?username=iamdevtry&layout=compact&theme=transparent&hide_border=true&text_color=417e87"/>
 <p>
 </td></tr></table>  
 
 <br />
 <p align="center">
-      <a href="https://github.com/coder0211">
-        <img src="https://github-readme-stats-green-phi.vercel.app/api?username=iamdevtry&theme=github_dark&count_private=true&show_icons=true&hide_border=true"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdevtry&theme=github-dark-blue&hide_border=true" />
+      <a href="https://github.com/iamdevtry">
+        <img src="https://github-readme-stats-green-phi.vercel.app/api?username=iamdevtry&theme=transparent&count_private=true&show_icons=true&hide_border=true&text_bold=false&text_color=417e87"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdevtry&theme=transparent&hide_border=true" />
     </a>
 </p>
 
