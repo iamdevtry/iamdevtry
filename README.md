@@ -27,7 +27,7 @@ I'm a back-end developer
 ## Something about me! 👋
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working with [Golang](https://go.dev/) & I want to become a "gopher" developer  
+- 🔭 I’m currently working with [Golang](https://go.dev/) & I want to become a "full-snack" developer  
   
 
 - 🌱 I’m currently learning Devops  
