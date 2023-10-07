@@ -79,7 +79,7 @@ I'm a back-end developer
 </td><td valign="top" width="50%">
 <div align="center">
 <br />
-<img align="center"  src="https://github-readme-stats-green-phi.vercel.app/api/top-langs/?username=iamdevtry&layout=compact&theme=transparent&hide_border=true&text_color=417e87"/>
+<img align="center"  src="[https://github-readme-stats-green-phi.vercel.app/api/top-langs/?username=iamdevtry&layout=compact&theme=transparent&hide_border=true&text_color=417e87])"/>
 <p>
 </td></tr></table>  
 
