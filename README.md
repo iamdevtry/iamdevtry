@@ -1,9 +1,6 @@
 ## Hey 👋, I'm Phong Binh Tran!  
   
 
-<a href="https://github.com/iamdevtry" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/iamdevtry" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -12,7 +9,7 @@
 </a>  
   
 
-I'm a back-end developer   
+I'm a full-stack developer   
   
 
 <br/>  
@@ -21,7 +18,7 @@ I'm a back-end developer
 ## Something about me! 👋
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working with [Golang](https://go.dev/) and [Ruby on Rails](https://rubyonrails.org/) & I want to become a "full-snack" developer  
+- 🔭 I’m currently working with NodeJS, NextJs, ReactJS and [Ruby on Rails](https://rubyonrails.org/). 
   
 
 - 🌱 I’m currently learning Devops  
