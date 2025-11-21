@@ -10,32 +10,12 @@
   
 
 I'm a full-stack developer   
-  
-
+🔭 I’m working with NodeJS, NextJs, ReactJS and [Ruby on Rails](https://rubyonrails.org/). 
 <br/>  
-
-
-## Something about me! 👋
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working with NodeJS, NextJs, ReactJS and [Ruby on Rails](https://rubyonrails.org/). 
-  
-
-- 🌱 I’m currently learning Devops  
-  
-
-- ⚡ Fun fact: I use this [web](https://profilinator.rishav.dev/) to generate my readme.md file  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://little.kylerconway.com/images/golang-what.gif" align="center" style="width: 100%" />
 </div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 ## Skills 💻
